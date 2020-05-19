@@ -13,5 +13,12 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        <form action="controlador1" method="post">
+            <input type="text" name="Usuario"/>
+            <input type="password" name="password"/>
+            <input type="submit" name="Ingresar"/>
+            
+        </form>
+         
     </body>
 </html>
